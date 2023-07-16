@@ -180,7 +180,7 @@ For payment, you can follow these simple steps:
 
 <b>1)</b> Free signup at <b>[Wise](https://transferwise.com/invite/u/harism95)</b> using this link: https://transferwise.com/invite/u/harism95</li>. (Signing up through this link will save you from any transcation fee on the payment)
 
-<b>2)</b> Select the <b>sending currency to be USD or equivalent amount of USD in your supported local currency i.e (119$ for Pro and 189$ for Ultimate)</b>. It supports multiple payment options (credit card, debit card, wire transfer etc)
+<b>2)</b> Select the <b>sending currency to be USD or an equivalent amount of USD in your supported local currency i.e (119$ for Pro and 189$ for Ultimate)</b>. It supports multiple payment options (credit card, debit card, wire transfer etc)
 
 <b>3)</b> Select 'Someone else' option, then it will show my info as the recipient, select it. If my name isn't shown, then type my email haris.muneer5@gmail.com in recipients and the IBAN number is: PK37FAYS3241307000000167
 
@@ -191,10 +191,10 @@ After the payment, please share a screenshot of the payment receipt at <b>haris.
 ### Payment via Crypto is also supported
 Instructions
 1. Using the [Binance](https://www.binance.com/en) network, you can pay USDT (189USDT for Ultimate and 119USDT for Pro) and the chain is Tron (TRC20)
-2. The wallet is: TD7VYFJKzq3Lz6Hr19ftfqvwrRsFTmHPwT
+2. The wallet is: TL3zjuqf2KmgSVkQnGzVq5i2Fk6VF3iauQ
 3. [Sample Screenshot](https://user-images.githubusercontent.com/30947706/138526456-0f82754f-2d4a-48f2-9898-f09721143913.png)
 
-If you face any issue in doing payment then feel free to get in touch with me at <b>haris.muneer5@gmail.com</b> Thank you for your support!
+If you face any issues in doing payment then feel free to contact me at <b>haris.muneer5@gmail.com</b> Thank you for your support!
 
 ## Important Notes 📑 
 Please read these points before purchasing the tool:
